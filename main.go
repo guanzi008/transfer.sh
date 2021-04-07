@@ -1,6 +1,6 @@
 package main
 
-import "github.com/dutchcoders/transfer.sh/cmd"
+import "github.com/guanzi008/transfer.sh/cmd"
 
 func main() {
 	app := cmd.New()
